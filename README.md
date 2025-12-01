@@ -1,7 +1,7 @@
-# AgileBoard — Rebuilt MERN Project (Complete Rebuild)
+# AgileBoard —MERN Project
 
-## What I built for you
-- Rebuilt MERN app with JWT auth, per-project RBAC, Socket.io real-time events
+## What I built
+- MERN app with JWT auth, per-project RBAC, Socket.io real-time events
 - React (Vite) frontend using React Context for global state
 - Tailwind CSS for quick clean UI
 - Ready-to-run source (install dependencies, add .env, run)
